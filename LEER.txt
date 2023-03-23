@@ -1,2 +1,4 @@
 Descripción del proyecto: 
-Esta aplicación está orientada a los centros de peluquería y estética; encargándose de gestionar las citas, aportando al cliente Android una mayor usabilidad; y al de escritorio, un control de gestión, tanto de personal y productos como de clientes.
+Esta aplicación está orientada a los centros de peluquería y estética; 
+encargándose de gestionar las citas aportando al cliente Android una mayor usabilidad; 
+y al de escritorio, un control de gestión, tanto de personal y productos como de clientes.
